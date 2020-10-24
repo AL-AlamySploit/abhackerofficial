@@ -9,7 +9,7 @@
 - 🧑🏻‍🏫 I’m currently working very hard.
 - 📖 I’m currently learning `bash` and `python` 
 - 🕵️ I’m looking to collaborate with other content creators.
-- 💬 Join my telegram group
+- 💬 Join my [telegram](https://t.me/joinchat/NQK6bkut0_O7xN4hTfwb1g) group
 - ⚡ Fun fact: I love - |🎵|📸|🧑‍💻|🎭|🐰|
 
 <!--

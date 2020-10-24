@@ -6,7 +6,7 @@
 
 ### Hi there, I'm ABHacker Official 👋
 
-- 🔭 I’m currently working very hard.
+- 🧑🏻‍🏫 I’m currently working very hard.
 - 📖 I’m currently learning `bash` and `python` 
 - 🕵️ I’m looking to collaborate with other content creators.
 - 💬 Join my telegram group

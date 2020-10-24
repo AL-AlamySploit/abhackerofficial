@@ -10,7 +10,6 @@
 - 📖 I’m currently learning `bash` and `python` 
 - 🕵️ I’m looking to collaborate with other content creators.
 - 💬 Join my [telegram](https://t.me/joinchat/NQK6bkut0_O7xN4hTfwb1g) group
-- ⚡ Fun fact: I love - |🎵|📸|🧑‍💻|🎭|🐰|
 
 <!--
 **abhackerofficial/abhackerofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

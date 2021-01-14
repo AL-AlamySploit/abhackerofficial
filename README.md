@@ -2,10 +2,10 @@
 <!--  <img alt="profile pic" width="195px" src="https://avatars1.githubusercontent.com/u/63346676?s=400&u=a01b5199f29c08a702f4c65bfaa47d3b76e25cb1&v=4" /> -->
 <!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=abhackerofficial&hide=ruby,perl&hide_border=true" /> -->
 
+<img src="https://user-images.githubusercontent.com/63346676/104586119-09cffa80-568b-11eb-9bed-94e747faf886.png" />
+
 <img alt="abhackerofficial's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abhackerofficial&show_icons=true&include_all_commits=true&hide_border=true" />
 </p>
-
-<img src="https://user-images.githubusercontent.com/63346676/104585554-2e77a280-568a-11eb-84b1-7af3506c1003.jpg" />
 
 - 🧑🏻‍🏫 I’m currently working very hard.
 - 📖 I’m currently learning `bash` and `python` 

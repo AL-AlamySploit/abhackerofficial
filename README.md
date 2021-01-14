@@ -5,7 +5,7 @@
 <img alt="abhackerofficial's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abhackerofficial&show_icons=true&include_all_commits=true&hide_border=true" />
 </p>
 
-<img scr="https://user-images.githubusercontent.com/63346676/104585554-2e77a280-568a-11eb-84b1-7af3506c1003.jpg">
+<img scr="https://user-images.githubusercontent.com/63346676/104585554-2e77a280-568a-11eb-84b1-7af3506c1003.jpg" />
 
 - 🧑🏻‍🏫 I’m currently working very hard.
 - 📖 I’m currently learning `bash` and `python` 

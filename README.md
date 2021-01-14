@@ -9,7 +9,7 @@
 - 🧑🏻‍🏫 I’m currently working very hard.
 - 📖 I’m currently learning `bash` and `python` 
 - 🕵️ I’m looking to collaborate with other content creators.
-- 💬 Join my [telegram](https://t.me/joinchat/NQK6bkut0_O7xN4hTfwb1g) group
+- 💬 Join my [telegram](https://t.me/abhackerofficial) group
 
 <p align="center">
   <a href="https://github.com/abhackerofficial"><img title="abhackerofficial" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhackerofficial&layout=compact"></a>

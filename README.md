@@ -3,9 +3,8 @@
 <!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=abhackerofficial&hide=ruby,perl&hide_border=true" /> -->
 
 <img src="https://user-images.githubusercontent.com/63346676/104586287-4c91d280-568b-11eb-9b08-5b84c8c94515.png" />
-
-<img alt="abhackerofficial's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abhackerofficial&show_icons=true&include_all_commits=true&hide_border=true" />
-</p>
+<img alt="abhackerofficial's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abhackerofficial&show_icons=true&include_all_commits=true&hide_border=true"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhackerofficial&" alt="abhackerofficial" /></p>
 
 - 🧑🏻‍🏫 I’m currently working very hard.
 - 📖 I’m currently learning `bash` and `python` 
